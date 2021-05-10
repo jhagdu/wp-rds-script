@@ -11,7 +11,7 @@ Shell Script to launch WordPress on AWS EC2 instances with Amazon RDS as a backe
 
 # Links
 
-[Click here for Video and Post](https://www.linkedin.com/in/amanjhagrolia143)
+[Click here for Video and Post](https://www.linkedin.com/posts/amanjhagrolia143_rightmentor-righteducation-educationredefine-activity-6797383388937424896-4o1Y)
 
 ***Feel free to Contact if any issue!!***
 
